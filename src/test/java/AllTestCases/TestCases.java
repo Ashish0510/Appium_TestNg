@@ -19,7 +19,7 @@ public class TestCases extends BaseClass {
 		 logger.info("phonenumber has been submitted");
 	}
 	
-	public void TestCase2() {
+	public void TestCase222() {
 		logger.info ("testcases second is running ");
 	}
 	
