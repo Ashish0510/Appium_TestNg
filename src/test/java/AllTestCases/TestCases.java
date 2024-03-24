@@ -23,6 +23,10 @@ public class TestCases extends BaseClass {
 		logger.info ("testcases second is running ");
 	}
 	
+	public void TestCase223() {
+		logger.info ("testcases third is running ");
+	}
+	
 	
 	
 }
